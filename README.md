@@ -13,13 +13,10 @@
 ## Table of Contents
 
 - [Features](#features)
-- [Screenshots](#screenshots)
 - [Getting Started](#getting-started)
 - [Cloud Sync Setup](#cloud-sync-setup-optional)
 - [Project Structure](#project-structure)
 - [Tech Stack](#tech-stack)
-- [Changelog](#changelog)
-- [License](#license)
 
 ---
 
@@ -55,13 +52,6 @@
 ### 💻 Zero Install
 - Runs entirely in the browser — no build step, no server required
 - A single `index.html` file: open it directly, or host it anywhere static files are served
-
----
-
-## Screenshots
-
-<!-- Add a screenshot or screen recording of the app here -->
-_Coming soon — feel free to drop in a screenshot or GIF of the UI here._
 
 ---
 
