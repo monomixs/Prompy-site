@@ -10,7 +10,7 @@
 
 ---
 
-[Visit site](https://monomixs.github.io/Prompy-site/index.html).
+**[Try Prompy now](https://monomixs.github.io/Prompy-site/)**
 
 ---
 
@@ -44,7 +44,7 @@
 - Smooth animated transitions in and out of selection mode
 
 ### ☁️ Cloud Backup (Backendless)
-- Optional cloud sync using your own [Backendless](https://backendless.com) REST API key
+- Optional cloud sync using your own [Backendless](https://backendless.com) REST API key and App ID
 - Each prompt is packaged as a self-contained `.zip` (data + images)
 - Organized server-side into `prompts/normal/` and `prompts/vault/`
 - Pull everything back down anytime with **Update Feed**
@@ -90,9 +90,9 @@ xdg-open index.html    # Linux
 
 Prompy can back up and restore your prompts using [Backendless](https://backendless.com).
 
-1. Create a free Backendless app and grab its **REST API Key**
+1. Create a free Backendless app and grab its **REST API Key** and **App ID**
 2. In Prompy, go to **Settings → Advanced Settings**
-3. Paste your REST API Key into the **API Configuration** field
+3. Paste your REST API Key and App ID into the **API Configuration** field
 4. Use **Upload Prompts** to back up, or **Update Feed** to restore
 
 > Cloud sync is entirely optional — Prompy works fully offline using local browser storage.
