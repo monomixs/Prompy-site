@@ -10,7 +10,7 @@
 
 ---
 
-[Visit Site](https://monomixs.github.io/Prompy-site/index.html)
+This site was built using [GitHub Pages](https://pages.github.com/).
 
 ---
 
