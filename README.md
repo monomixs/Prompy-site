@@ -62,16 +62,16 @@ Prompy is a single self-contained HTML file. There's no build step and nothing t
 ### Run Locally
 
 ```bash
-git clone https://github.com/<your-username>/<your-repo>.git
-cd <your-repo>
+git clone [https://github.com/monomixs/Prompy-site.git](https://github.com/monomixs/Prompy-site.git)
+cd Prompy-site
 ```
 
 Then just open `index.html` in your browser:
 
 ```bash
-open index.html        # macOS
-start index.html       # Windows
-xdg-open index.html    # Linux
+open index1.html        # macOS
+start index1.html       # Windows
+xdg-open index1.html    # Linux
 ```
 
 ### Deploy to GitHub Pages
@@ -99,7 +99,7 @@ Prompy can back up and restore your prompts using [Backendless](https://backendl
 
 ```text
 .
-├── index.html        # The entire app — markup, styles, and logic
+├── index1.html        # The entire app — markup, styles, and logic
 └── CHANGELOG.md       # Version history
 ```
 
