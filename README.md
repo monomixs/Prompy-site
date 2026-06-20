@@ -69,9 +69,9 @@ cd Prompy-site
 Then just open `index.html` in your browser:
 
 ```bash
-open index1.html        # macOS
-start index1.html       # Windows
-xdg-open index1.html    # Linux
+open index.html        # macOS
+start index.html       # Windows
+xdg-open index.html    # Linux
 ```
 
 ### Deploy to GitHub Pages
@@ -99,7 +99,7 @@ Prompy can back up and restore your prompts using [Backendless](https://backendl
 
 ```text
 .
-├── index1.html        # The entire app — markup, styles, and logic
+├── index.html        # The entire app — markup, styles, and logic
 └── CHANGELOG.md       # Version history
 ```
 
