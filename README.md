@@ -10,7 +10,7 @@
 
 ---
 
-![Visit Site](https://monomixs.github.io/Prompy-site/index.html)
+[Visit Site](https://monomixs.github.io/Prompy-site/index.html)
 
 ---
 
